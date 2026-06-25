@@ -1,20 +1,29 @@
-# introduction to python and machine_learnig/ deep learning
+# Python and Machine Learning for Neuroscience
 
-here i put my python learning notebook and machineldeep learning code. 
+This repository contains structured learning notebooks in Python, machine learning, and introductory deep learning. It was developed as part of my preparation for computational neuroscience, neuroimaging research, and data-driven analysis of brain and behavioral data.
 
-first read and review python if you are not familiar with it, its simple and well taught. then start learning Machine Learning for Data Analysis.
+## Contents
 
-
-## Purpose
-The notebook implements a python basics and machine learning to analyze a datases. 
+* Python fundamentals
+* Data types, functions, files, and classes
+* Introductory machine learning workflows
+* Basic neural network and MLP implementation
+* Data analysis practice using Python libraries
 
 ## Tools
-- Python 3.6+
-- Libraries: Scikit-learn, MNE-Python (optional), Pandas, NumPy, Matplotlib, Seaborn
-- Jupyter Notebook or colab
 
-## Notes
-This project was created to demonstrate my coding and machine learning skills for a neuroscience school application. It reflects my experience in applying Python for neuroimaging and cognitive research. Future updates will include additional analyses, such as MLP, CNN ...
+* Python
+* Jupyter Notebook / Google Colab
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Basic deep learning tools
 
-## Contact
-For questions or collaboration, reach me at [zahra.mnsoori@gmail.com].
+## Purpose
+
+The goal of this repository is to document my learning process and technical preparation for research in neuroscience, neuroimaging, and medical AI. Future updates may include more structured machine learning examples, model evaluation, visualization, and neuroscience-oriented data analysis notebooks.
+
+## Note
+
+This repository is for educational and portfolio purposes. No sensitive, private, or clinical data is included.
